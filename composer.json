@@ -2,7 +2,7 @@
   "name": "squattydent/ServerInfo",
   "type":"library",
   "description": "PHP Library Server Info v1.0",
-  "keywords": ["widget", "server", "info", "php server info"],
+  "keywords": ["widget", "server", "info", "ServerInfo"],
   "license": "MIT",
   "authors": [
     {
