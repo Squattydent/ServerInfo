@@ -1,12 +1,12 @@
 {
   "name": "squattydent/ServerInfo",
-  "type":"library",
+  "type": "library",
   "description": "PHP Library Server Info v1.0",
   "keywords": ["widget", "server", "info", "ServerInfo"],
   "license": "MIT",
   "authors": [
     {
-      "name": "Uki",
+      "name": "Kiki",
       "email": "squattydent@gmail.com",
       "role": "Developer"
     }
