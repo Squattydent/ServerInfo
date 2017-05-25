@@ -1,5 +1,5 @@
 {
-  "name": "squattydent/Widget-Server-Info",
+  "name": "squattydent/ServerInfo",
   "type":"library",
   "description": "PHP Library Server Info v1.0",
   "keywords": ["widget", "server", "info", "php server info"],
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "WidgetInfo\\": "src/"
+      "ServerInfo\\": "src/"
     }
   }
 }
