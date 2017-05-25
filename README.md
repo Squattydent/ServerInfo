@@ -1,3 +1,3 @@
-# Widget-Server-Info [MIT License](https://raw.githubusercontent.com/squattydent/Widget-Server-Info/master/LICENSE "MIT License")
+# ServerInfo [MIT License](https://raw.githubusercontent.com/squattydent/ServerInfo/master/LICENSE "MIT License")
 
-![alt text](https://raw.githubusercontent.com/squattydent/Widget-Server-Info/master/screenshoot.jpg "Widget server info")
+![alt text](https://raw.githubusercontent.com/squattydent/ServerInfo/master/screenshoot.jpg "Widget server info")
